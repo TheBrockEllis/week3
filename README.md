@@ -1,3 +1,5 @@
+I got home and noticed that I did not commit this.
+
 Me Object
 Create a new .html file named "me.html" in a repo named "week3"
 Set up the basic HTML template, with head and body
